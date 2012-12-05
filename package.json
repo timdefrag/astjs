@@ -1,0 +1,25 @@
+{
+  "name": "ast",
+  "version": "0.0.1",
+  "description" : "Generic AST Toolkit",
+  "homepage" : "altjs.org",
+  "author" : {
+    "name":  "Tim Johnston",
+    "email": "tim.defrag@gmail.com",
+    "url":   "http://www.timdefrag.com"
+  },
+  "files" : [
+    "lib/ast.js"
+  ],
+  "main" : "lib/ast.js",
+  "engines" : {
+    "node" : ">=0.6.6"
+  },
+  "devDependencies" : [
+    
+  ],
+  "repository":      {
+    "type": "git",
+    "url":  "http://github.com/timdefrag/astjs.git"
+  }
+}
